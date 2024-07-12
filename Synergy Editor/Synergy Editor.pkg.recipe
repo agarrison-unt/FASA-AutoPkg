@@ -14,7 +14,7 @@
     <key>MinimumVersion</key>
     <string>0.1.0</string>
     <key>ParentRecipe</key>
-    <string>download.Synergy Editor</string>
+    <string>UNT-AITS-FASA.download.Synergy Editor</string>
     <key>Process</key>
     <array>
         <dict>
