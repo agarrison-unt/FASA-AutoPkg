@@ -5,7 +5,7 @@
     <key>Description</key>
     <string>Converts DMG to PKG</string>
     <key>Identifier</key>
-    <string>pkg.Synergy Editor</string>
+    <string>UNT-AITS-FASA.pkg.Synergy Editor</string>
     <key>Input</key>
     <dict>
         <key>NAME</key>
