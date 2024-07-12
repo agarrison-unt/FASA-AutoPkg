@@ -14,7 +14,7 @@
     <key>MinimumVersion</key>
     <string>0.1.0</string>
     <key>ParentRecipe</key>
-    <string>download.Synergy Video Express</string>
+    <string>UNT-AITS-FASA.download.Synergy Video Express</string>
     <key>Process</key>
     <array>
         <dict>
