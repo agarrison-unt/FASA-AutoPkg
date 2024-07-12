@@ -5,7 +5,7 @@
     <key>Description</key>
     <string>Downloads latest Hudl Sportscode disk image.</string>
     <key>Identifier</key>
-    <string>com.github.primalcurve.download.HudlSportscode</string>
+    <string>UNT-AITS-FASA.download.HudlSportscode</string>
     <key>Input</key>
     <dict>
         <key>NAME</key>
