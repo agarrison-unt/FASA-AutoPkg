@@ -16,7 +16,7 @@
     <key>MinimumVersion</key>
     <string>1.0.0</string>
     <key>ParentRecipe</key>
-    <string>com.github.primalcurve.download.HudlSportscode</string>
+    <string>UNT-AITS-FASA.download.HudlSportscode</string>
     <key>Process</key>
     <array>
         <dict>
